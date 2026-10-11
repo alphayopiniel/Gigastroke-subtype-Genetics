@@ -1,0 +1,10 @@
+# Data and generated results are deliberately not version controlled.
+data/
+results/
+reference/
+*.log
+*.rds
+*.npz
+__pycache__/
+.DS_Store
+
